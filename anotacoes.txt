@@ -1,2 +1,3 @@
 Kauã Sampaio de Farias
 Engenharia de Software 2
+Achei a aula bem interessante, mas na verdade, já estudava um pouco de git antes, então gostei bastante dessa atividade(mesmo tendo que fazer em cima da hora pq o sigaa caiu rs), estou adicionando esse texto a partir do comando echo do meu linux ubuntu(digo isso só pra ter mais linhas de fala)
